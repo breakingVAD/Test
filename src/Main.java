@@ -10,4 +10,7 @@ public class Main {
             System.out.println(i);
         }
     }
+    public void barks(){
+        System.out.println("Bark Bark!");
+    }
 }
