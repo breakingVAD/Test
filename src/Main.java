@@ -21,4 +21,8 @@ public class Main {
     public void barks(){
         System.out.println("bark bark!");
     }
+
+    public void meow() {
+        // meow meow meow
+    }
 }
