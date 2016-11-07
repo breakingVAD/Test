@@ -25,4 +25,8 @@ public class Main {
     public void meow() {
         // meow meow meow
     }
+
+    public void sass(){
+        System.out.println("Hmph");
+    }
 }
