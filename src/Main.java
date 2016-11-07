@@ -13,4 +13,9 @@ public class Main {
             System.out.println(i);
         }
     }
+    public void printToTen(){
+        for(int i=1;i<=10;i++){
+            System.out.println(i);
+        }
+    }
 }
