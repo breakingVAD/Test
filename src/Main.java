@@ -29,4 +29,8 @@ public class Main {
     public void wag() {
         System.out.println("wag wag");
     }
+
+    public void play() {
+        System.out.println("play play");
+    }
 }
