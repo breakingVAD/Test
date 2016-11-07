@@ -26,7 +26,10 @@ public class Main {
         // meow meow meow
     }
 
-    public void eat(){
+    public void sass(){
+        System.out.println("Hmph");
+
+    public void eat() {
         System.out.println("chomp chomp");
     }
 
@@ -38,8 +41,8 @@ public class Main {
         System.out.println("play play");
     }
 
-    public void sleep(){
+    public void sleep() {
         System.out.println("");
-
     }
+
 }
