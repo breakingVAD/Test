@@ -25,4 +25,21 @@ public class Main {
     public void meow() {
         // meow meow meow
     }
+
+    public void eat(){
+        System.out.println("chomp chomp");
+    }
+
+    public void wag() {
+        System.out.println("wag wag");
+    }
+
+    public void play() {
+        System.out.println("play play");
+    }
+
+    public void sleep(){
+        System.out.println("");
+
+    }
 }
