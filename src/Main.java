@@ -21,4 +21,12 @@ public class Main {
     public void barks(){
         System.out.println("bark bark!");
     }
+
+    public void eat() {
+        System.out.println("chomp chomp");
+    }
+
+    public void wag() {
+        System.out.println("wag wag");
+    }
 }
