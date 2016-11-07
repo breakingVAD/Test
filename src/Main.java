@@ -19,6 +19,6 @@ public class Main {
         }
     }
     public void barks(){
-        System.out.println("Bark Bark!");
+        System.out.println("bark bark!");
     }
 }
