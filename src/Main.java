@@ -33,4 +33,8 @@ public class Main {
     public void play() {
         System.out.println("play play");
     }
+
+    public void sleep(){
+        System.out.println("");
+    }
 }
